@@ -1,3 +1,9 @@
+/**
+ * @author Gabriel Martins
+ * @version 1.0
+ */
+
+
 public class CalculandoImposto {
 
     private double totalImposto; 
